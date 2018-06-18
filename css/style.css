@@ -1,0 +1,168 @@
+body
+{
+    padding: 0px;
+    margin:0px;
+}
+header div 
+{
+    float: left;
+}
+
+.max-width
+{
+    width:1000px;
+}
+.middle 
+{
+    margin: 0px auto;
+}
+.rid
+{
+    clear:both;
+}
+li
+{
+    list-style:none;
+}
+header #menu
+{
+    background-color:black;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left:80px;
+}
+    header #menu a 
+{
+    text-transform: capitalize;
+    color:white;
+    text-decoration: none;
+    padding: 10px 50px;
+    margin: 10px;
+}
+header #menu a:hover{
+    background-color:cadetblue;
+}
+.big img
+{
+    border:4px solid black;
+    width:1000px;
+    height:400px;
+    margin-top: 50px;
+}
+.buy
+{
+    background-color:black;
+    padding: 20px;
+    margin-left: 400px;
+    color:white;
+    text-decoration: none;
+}
+.buy:hover{
+    background-color:chocolate;
+}
+    h1
+{
+    background-color:azure;
+    color:black;
+    font-family: verdana;
+    margin: 40px;
+    padding: 5px;
+    text-align:center;
+}
+ #abt p
+{
+    text-align: justify;
+    font-family: verdana;
+}
+
+    #high section
+{
+    overflow: hidden;
+    width:430px;
+    height:300px;
+    float: left;
+    border:2px solid black;
+    margin:30px;
+    
+}
+    #high section img
+{
+    width:430px;
+    height:300px;
+}
+
+#top-deal img
+{
+    float: left;
+    width:400px;
+    height:250px;
+    margin-left: 50px;
+    border:2px solid white;
+}
+#top-deal img:hover
+{
+    border-color:black;
+}
+
+
+#special section
+{
+    float:left;
+    height:250px;
+    width:300px;
+}
+#special img
+{
+    width:300px;
+    height:200px;
+}
+#special section 
+{
+    margin-left: 30px;
+    text-align: center;
+}
+#special a
+{
+    display: block;
+    text-decoration: none;
+    margin-top:10px;
+    background-color:black;
+    color: white;
+    padding: 4px;
+    text-transform: capitalize;
+}
+#special a:hover{
+    
+    background-color:burlywood;
+    color:black;
+}
+#bottom
+{
+        background-color:azure;
+margin-top:40px;s
+}
+#bottom section
+{
+    height:200px;
+    float:left;
+    width:300px;
+    margin-left: 30px;
+    
+}
+#bottom img
+{
+    padding: 30px;
+}
+#bottom a 
+{
+    text-align: center;
+    text-decoration: none;
+    padding: 6px;
+    display:block;
+    margin: 12px 0px;
+    background-color:brown;
+    color:white;
+}
+#bottom a:hover{
+    background-color:cadetblue;
+}
